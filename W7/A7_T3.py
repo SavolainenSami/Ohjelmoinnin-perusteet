@@ -4,7 +4,7 @@ WEEKDAYS = (
     "Wednesday",
     "Thursday",
     "Friday",
-    "Saturnday",
+    "Saturday",
     "Sunday",
 )
 
@@ -80,4 +80,5 @@ def main() -> None:
     return None
 
 
-main()
+if __name__ == "__main__":
+    main()
